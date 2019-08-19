@@ -1,18 +1,18 @@
 {
   "test": {
-    "PORT": 3001,
+    "PORT": 8080,
     "LOG_LEVEL": "trace",
     "RMQConnectionString": "amqp://admin:123@164.68.105.132",
     "QueueName": "test_queue"
   },
   "development": {
-    "PORT": 3000,
+    "PORT": 8080,
     "LOG_LEVEL": "trace",
-    "RMQConnectionString": "amqp://admin:123@164.68.105.132",
-    "QueueName": "test_queue"
+    "RMQConnectionString":"amqp://info1@7stargaming.com:fgfhERU4455@prematch-rmq.lsports.eu",
+    "QueueName": "_2240_"
   },
   "production": {
-    "PORT": 3002,
+    "PORT": 8080,
     "LOG_LEVEL": "error",
     "RMQConnectionString": "amqp://admin:123@164.68.105.132",
     "QueueName": "test_queue"

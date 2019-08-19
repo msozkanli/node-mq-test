@@ -11,7 +11,7 @@ let ResponseHandler = (req, res) => {
     } else {
         let response = {
             status: res.statusCode,
-            messages: res.locals.messages,
+            messages: req.body,
             data: res.locals.data ? res.locals.data : {}
         };
         console.log(JSON.stringify(response));

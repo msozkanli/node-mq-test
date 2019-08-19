@@ -1,0 +1,17 @@
+{
+  "notification1": {
+    "body": "Bartley - Crespo lorem ipsum <emoji>XHVEODNDXHVERjg0</emoji><input class=\"sapHpaCeiSmoManagePlaceholder\" title=\"Emoji\" type=\"button\" value=\"Emoji\" emakina-value=\"XHVEODNDXHVERjg0\"/><input type=\"button\" value=\"asdasdsad\" stype=\"display: none;\" />",
+    "title": "",
+    "icon": "",
+    "click_action": "OPEN_NOTIFICATION"
+  },
+  "registration_ids": [
+    "+14798696784"
+  ],
+  "data": {
+    "origin": "YMKT",
+    "type": "text",
+    "trackingURL": "https://gdm-maf.demo.hybris.com:443/sap/cuan/mpn/100/1AF928C4DE58D38916F90343450A0FDBCE548036/"
+  },
+  "priority": 10
+}

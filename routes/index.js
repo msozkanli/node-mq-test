@@ -1,12 +1,12 @@
 const Router = require("express").Router;
 const router = new Router();
-const rmqRoutes = require("./rmq-routes");
 
 
+const FireBaseService = require("../service/FireBaseService");
 
 
+router.post("/push", FireBaseService.push);
 
-router.use("/rmq",rmqRoutes);
 
 module.exports = router;
 

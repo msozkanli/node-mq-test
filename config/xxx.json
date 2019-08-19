@@ -1,0 +1,17 @@
+{
+  "notification": {
+    "body": "Damian - Lewis lorem ipsum <emoji>XHVEODNDXHVERjg0</emoji><input class='sapHpaCeiSmoManagePlaceholder' title='Emoji' type='button' value='Emoji' emakina-value='XHVEODNDXHVERjg0'/><input type='button' value='asdasdsad' stype='display:none;' />",
+    "title": "",
+    "icon": "",
+    "click_action": "OPEN_NOTIFICATION"
+  },
+  "registration_ids": [
+    "fKLKtJzoEns:APA91bGBzhzC3oZmXA_rsLFZwiCoi1t0IXU6UFJcIKI4MucqNZ79jY6_NN42n1WbbzvpbABOTCQB-hvf4HZdp3moRBCc3DZne9arijOXgIf8IbT6epCGS7sY0e6WpitYyVgGhF80Tutn"
+  ],
+  "data": {
+    "origin": "YMKT",
+    "type": "text",
+    "trackingURL": "https://gdm-maf.demo.hybris.com:443/sap/cuan/mpn/100/77A19F850D9E7FD2A9F04092B22840D80AAECDD2/"
+  },
+  "priority": 10
+}
