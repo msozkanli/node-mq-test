@@ -9,11 +9,7 @@ let ResponseHandler = (req, res) => {
         console.log(JSON.stringify(response));
         res.json(response);
     } else {
-        let response = {
-            status: res.statusCode,
-            messages: req.body,
-            data: res.locals.data ? res.locals.data : {}
-        };
+        let response=res.locals.data;
         console.log(JSON.stringify(response));
         res.json(response)
     }
